@@ -1,6 +1,6 @@
 # Hi, I'm Rayyaan Anwar 👋
 
-I'm an MSci Physics student at **Imperial College London**, interested in applying mathematics, programming and analytical problem-solving to complex problems.
+I'm an MSci Physics student at **Imperial College London**, interested in applying mathematics, programming and analytical problem- solving to complex problems.
 
 My academic projects have given me experience in Python programming, statistical analysis, numerical modelling, computational simulation and experimental data analysis. I'm particularly interested in exploring applications across quantitative finance, data science and technology.
 
