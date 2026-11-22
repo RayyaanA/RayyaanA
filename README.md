@@ -51,4 +51,4 @@ MSci Physics | 2025–2029 (Expected)
 
 ## 📫 Connect with me
 
-[LinkedIn](ADD_YOUR_LINKEDIN_URL_HERE)
+LinkedIn: www.linkedin.com/in/rayyaan-anwar
