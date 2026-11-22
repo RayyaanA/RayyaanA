@@ -7,12 +7,12 @@ My academic projects have given me experience in Python programming, statistical
 ## 🔬 Featured Projects
 
 ### Radioactivity Data Analysis & Monte Carlo Modelling
-Python-based analysis of experimental radioactive count-rate measurements.
+Python- based analysis of experimental radioactive count- rate measurements.
 
-- Processed and analysed measurements across multiple source–detector separations.
+- Processed and analysed measurements across multiple source– detector separations.
 - Applied Poisson statistics, uncertainty propagation and covariance analysis.
 - Implemented numerical integration over finite source and detector geometries.
-- Compared mathematical models using nonlinear least-squares optimisation and statistical goodness-of-fit tests.
+- Compared mathematical models using nonlinear least- squares optimisation and statistical goodness- of- fit tests.
 - Used GEANT4 Monte Carlo simulations to investigate particle interactions and detector response.
 
 ### Astronomical Spectra Analysis
@@ -24,12 +24,12 @@ Python and statistical analysis of astronomical observations.
 - Used weighted linear regression to estimate Hubble's constant.
 
 ### Computational Modelling & Signal Processing
-Development and analysis of an op-amp analogue computer.
+Development and analysis of an op- amp analogue computer.
 
 - Designed and simulated a physical analogue computer in LTspice.
-- Built a circuit implementing a second-order differential-equation model.
+- Built a circuit implementing a second- order differential- equation model.
 - Processed experimental oscilloscope data using Python.
-- Applied FFT and cross-correlation methods to analyse frequency response and phase differences.
+- Applied FFT and cross- correlation methods to analyse frequency response and phase differences.
 
 ## 🛠️ Technical Skills
 
@@ -47,7 +47,7 @@ Development and analysis of an op-amp analogue computer.
 
 **Imperial College London**
 
-MSci Physics | 2025–2029 (Expected)
+MSci Physics | 2025– 2029
 
 ## 📫 Connect with me
 
